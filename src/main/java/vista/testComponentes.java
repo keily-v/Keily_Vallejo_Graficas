@@ -50,6 +50,7 @@ public class testComponentes extends javax.swing.JFrame {
         modelot.addRow(fila2);
         
         
+        
     }
     
     
