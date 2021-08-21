@@ -1,5 +1,6 @@
 
 package vista;
+//
 
 import dominio.*;
 import java.awt.Image;
